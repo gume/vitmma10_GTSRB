@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MyTest</folder>
+	<filename>speed10.jpg</filename>
+	<path>/mnt/c/Users/gume7/Downloads/GSTRB/MyTest/speed10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>37</ymin>
+			<xmax>73</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>
